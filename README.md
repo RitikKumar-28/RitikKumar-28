@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity projects, ethical hacking research, and secure web application development.**
 
-- 👨‍💻 All of my projects are available at [https://ritik-portfolio01.vercel.app/](https://ritik-portfolio01.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Cybersecurity basics, ethical hacking, vulnerability scanning, and protecting websites and networks.**
 
